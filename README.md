@@ -20,5 +20,5 @@
 ## Prerequisite
 - Node.js must be installed
 
-## Api Documentation
+## API Documentation
 shorturl.at/kqW23
