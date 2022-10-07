@@ -5,7 +5,7 @@
 - Newman
 
 # Scenario
-- Ligin in to the System as aaadmin
+- Login in to the System as aaadmin
 - Create User
 - Update User
 - Search User
