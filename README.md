@@ -1,4 +1,4 @@
-# Api_Automation
+# User_Api_Automation
 
 ## Tecnhnology And Tool Used
 - Postman
