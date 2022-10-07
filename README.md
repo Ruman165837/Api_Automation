@@ -22,7 +22,3 @@
 
 ## Api Documentation
 shorturl.at/kqW23
-
-## Test Case
-
-## Output
