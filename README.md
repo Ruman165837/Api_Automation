@@ -21,4 +21,4 @@
 - Node.js must be installed
 
 ## API Documentation
-shorturl.at/kqW23
+https://cutt.ly/ZBfaAd9
